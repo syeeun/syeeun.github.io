@@ -105,18 +105,18 @@ author:
   name             : "Yei Eun Shin"
   avatar           : "/test/assets/images/bio-photo-shin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "motivated by real data"
-  location         : "Somewhere"
+  location         : 
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:syeeun@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://twitter.com/yeieunshin"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
