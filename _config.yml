@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Statistical Computing and Labs"
+title                    : "Welcome"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yei Eun Shin"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Yei Eun Shin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "motivated by real data"
+  bio              : "(Under Construction)"
   location         : 
   email            :
   links:
